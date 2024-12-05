@@ -1,0 +1,20 @@
+.title{
+    color: rgba(139, 69, 19, 0.936);
+    cursor: pointer;
+}
+
+.title2{
+    color: rgba(139, 69, 19, 0.429);
+}
+
+.text{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.em{
+    color: rgba(9, 120, 9, 0.689);
+}
+
+.strong{
+    color: rgba(52, 9, 120, 0.689);
+}
